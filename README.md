@@ -1,0 +1,1 @@
+# enable-logs-VMs-NSGs
