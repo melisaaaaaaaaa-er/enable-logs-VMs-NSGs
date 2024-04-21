@@ -5,6 +5,8 @@
 - Enable log collection for virtual machines (VMs) and network security groups (NSGs)
 - Analyze some logs on LAW using KQL queries.
 
+VMs do not need to be on for this lab.
+
 <img src ="https://raw.githubusercontent.com/melisaaaaaaaaa-er/enable-logs-VMs-NSGs-images/main/Log%20Analystics%20Workspace%20ingestion%20diagram.png"/>
 
 #
